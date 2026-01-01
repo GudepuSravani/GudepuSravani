@@ -42,7 +42,7 @@
 🔐 **[Fraud Detection Platform](#)** – Full-stack app integrated with ML models to detect fraudulent credit card transactions.  
 🏠 **[Property Rental & Review System](#)** – Secure rental listings + verified reviews to build trust & transparency.  
 🏫 **[College Property Damage Reporter](#)** – Reporting tool with admin dashboards, filtering, and image preview features.  
-✨ **[Food devlivey website](#)** – Food delivey any place any where food devlivey esay to order .
+✨ **[Food delivery website](#)** – Food delivery any place any where food devlivery esay to order .
 
 ---
 
