@@ -45,14 +45,14 @@
 ✨ **[Food delivery website](#)** – Food delivery any place any where food delivery esay to order .
 
 ---
-**✨ ACHIEVEMENT:**
- **Apna college**:
+## ✨ ACHIEVEMENT:
+🔭**Apna college**:
 • Worked independently to design, implement, test, and release scalable features using modern frontend and backend
 abstractions.
 • Collaborated with cross-functional teams to deliver user-friendly and efficient solutions aligned with customer needs
 • Optimized performance and responsiveness using effective state management and clean, maintainable code
 • Conducted rigorous code reviews to uphold software engineering standards and consistency across the codebase
- **RBI(QUIZ)**:
+🔭**RBI(QUIZ)**:
 This quiz was a great opportunity to enhance my knowledge in the areas of finance, economy, and banking awareness.
      
 ## 📈 GitHub Stats (Dark + Blue)  
