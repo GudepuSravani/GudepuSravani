@@ -23,14 +23,17 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white"/>
   <br/>
   
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <br/>
+  
+  <img src="https://img.shields.io/badge/GitHub-1572B6?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
@@ -51,9 +54,15 @@
 abstractions.
 • Collaborated with cross-functional teams to deliver user-friendly and efficient solutions aligned with customer needs
 • Optimized performance and responsiveness using effective state management and clean, maintainable code
-• Conducted rigorous code reviews to uphold software engineering standards and consistency across the codebase
-##🔭**RBI(QUIZ)**:
+• Conducted rigorous code reviews to uphold software engineering standards and consistency across the codebase.
+
+🔭**RBI(QUIZ)**:
 This quiz was a great opportunity to enhance my knowledge in the areas of finance, economy, and banking awareness.
+
+🔭**AI Skills Passport**:
+• Completed AI Skills Passport, strengthening my foundation in Artificial Intelligence fundamentals and employability skills.
+• Gained practical insights into AI applications in technology, business,and sustainability.
+• Excited to apply AI knowledge and job-ready skills in real-world opportunities.
      
 ## 📈 GitHub Stats (Dark + Blue)  
 
