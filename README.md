@@ -14,7 +14,7 @@
 ## 🧑‍💻 About Me  
 
 💡 Passionate about **Exploring Something New**, writing clean code.  
-🎓 Aiml Undergrad @ St.Mary's group of institutions (2022–2026).  
+🎓 Aiml Undergrad @St.Mary's group of institutions (2022–2026).  
 🔭 Currently working on ** Python + Artificial Intelligence and Machine learning**.  
 
 ---
@@ -70,8 +70,6 @@ This quiz was a great opportunity to enhance my knowledge in the areas of financ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GudepuSravani&theme=blueberry_duo" alt="GitHub streak" height="161"/>
 </p>
 
----
-
 ## 🤝 Connect with Me  
 
 <p align="center">
@@ -79,8 +77,6 @@ This quiz was a great opportunity to enhance my knowledge in the areas of financ
   <a href="https://www.linkedin.com/in/sravani-gudepu-66bb84288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/GudepuSravani"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
 
 <!-- Footer Banner -->
 <p align="center">
