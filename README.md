@@ -11,7 +11,7 @@
 
 
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me  :
 
 💡 Passionate about **Exploring Something New**, writing clean code.  
 🎓 Aiml Undergrad @St.Mary's group of institutions (2022–2026).  
