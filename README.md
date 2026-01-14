@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+scalable+apps+with+MERN;Solving+real-world+problems+with+code;Learning+%26+adapting+every+day;Turning+ideas+into+impactful+software" alt="Typing SVG" />
 </p>
 
-## 🧑‍💻 About Me  
+## 🧑‍💻 About Me  :
 
 💡 Passionate about **Exploring Something New**, writing clean code.  
 🎓 Aiml Undergrad @St.Mary's group of institutions (2022–2026).  
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack  :
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
