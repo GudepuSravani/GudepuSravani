@@ -46,7 +46,7 @@
 ✨ **[Food delivery website](#)** – Food delivery any place any where food delivery esay to order .
 
 --
-## ✨ ACHIEVEMENT :
+## ✨ ACHIEVEMENT
 
 🔭**Apna college**:
 • Worked independently to design, implement, test, and release scalable features using modern frontend and backend
