@@ -37,7 +37,7 @@
 
 ---
 
-## 🔭 Featured Projects
+## 🔭 Featured Projects :
 
 ✨ **[Github clone](#)** – Github clone is a command used to copy a Github repository from the internet to your local computer.  
 🔐 **[Fraud Detection Platform](#)** – Full-stack app integrated with ML models to detect fraudulent credit card transactions.  
