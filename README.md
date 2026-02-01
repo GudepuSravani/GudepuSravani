@@ -63,7 +63,7 @@ This quiz was a great opportunity to enhance my knowledge in the areas of financ
 • Gained practical insights into AI applications in technology, business,and sustainability.
 • Excited to apply AI knowledge and job-ready skills in real-world opportunities.
      
-## 📈 GitHub Stats (Dark + Blue)  :
+## 📈 GitHub Stats (Dark + Blue)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GudepuSravani&theme=blueberry_duo" alt="GitHub streak" height="161"/>
