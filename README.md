@@ -58,7 +58,7 @@ abstractions.
 🔭**RBI(QUIZ)**
 This quiz was a great opportunity to enhance my knowledge in the areas of finance, economy, and banking awareness.
 
-🔭**AI Skills Passport**:
+🔭**AI Skills Passport**
 • Completed AI Skills Passport, strengthening my foundation in Artificial Intelligence fundamentals and employability skills.
 • Gained practical insights into AI applications in technology, business,and sustainability.
 • Excited to apply AI knowledge and job-ready skills in real-world opportunities.
