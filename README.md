@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack :
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🔭 Featured Projects
+## 🔭 Featured Projects :
 
 ✨ **[Github clone](#)** – Github clone is a command used to copy a Github repository from the internet to your local computer.  
 🔐 **[Fraud Detection Platform](#)** – Full-stack app integrated with ML models to detect fraudulent credit card transactions.  
@@ -48,14 +48,14 @@
 --
 ## ✨ ACHIEVEMENT  :
 
-🔭**Apna college**:
+🔭**Apna college**
 • Worked independently to design, implement, test, and release scalable features using modern frontend and backend
 abstractions.
 • Collaborated with cross-functional teams to deliver user-friendly and efficient solutions aligned with customer needs
 • Optimized performance and responsiveness using effective state management and clean, maintainable code
 • Conducted rigorous code reviews to uphold software engineering standards and consistency across the codebase.
 
-🔭**RBI(QUIZ)**:
+🔭**RBI(QUIZ)**
 This quiz was a great opportunity to enhance my knowledge in the areas of finance, economy, and banking awareness.
 
 🔭**AI Skills Passport**:
