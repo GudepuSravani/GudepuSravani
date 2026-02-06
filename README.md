@@ -35,7 +35,7 @@
 
 ---
 
-## 🔭 Featured Projects:
+## 🔭 Featured Projects :
 
 ✨ **[Github clone](#)** – Github clone is a command used to copy a Github repository from the internet to your local computer.  
 🔐 **[Fraud Detection Platform](#)** – Full-stack app integrated with ML models to detect fraudulent credit card transactions.  
@@ -67,7 +67,7 @@ This quiz was a great opportunity to enhance my knowledge in the areas of financ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GudepuSravani&theme=blueberry_duo" alt="GitHub streak" height="161"/>
 </p>
 
-## 🤝 Connect with Me   :
+## 🤝 Connect with Me :
 
 <p align="center">
   <a href="sravanigudepu2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
