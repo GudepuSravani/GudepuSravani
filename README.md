@@ -15,7 +15,7 @@
 🎓 Aiml Undergrad @St.Mary's group of institutions (2022–2026).  
 🔭 Currently working on ** Python + Artificial Intelligence and Machine learning**.  
 ---
-## 🛠️ Tech Stack:
+## 🛠️ Tech Stack :
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
