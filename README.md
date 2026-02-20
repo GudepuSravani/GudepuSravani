@@ -15,7 +15,7 @@
 🎓 Aiml Undergrad @St.Mary's group of institutions (2022–2026).  
 🔭 Currently working on ** Python + Artificial Intelligence and Machine learning**.  
 ---
-## 🛠️ Tech Stack :
+## 🛠️ Tech Stack  :
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -32,7 +32,7 @@
 
 ---
 
-## 🔭 Featured Projects :
+## 🔭 Featured Projects:
 
 ✨ **[Github clone](#)** – Github clone is a command used to copy a Github repository from the internet to your local computer.  
 🔐 **[Fraud Detection Platform](#)** – Full-stack app integrated with ML models to detect fraudulent credit card transactions.  
@@ -41,7 +41,7 @@
 ✨ **[Food delivery website](#)** – Food delivery any place any where food delivery esay to order .
 
 --
-## ✨ ACHIEVEMENT :
+## ✨ ACHIEVEMENT
 
 🔭**Apna college**
 • Worked independently to design, implement, test, and release scalable features using modern frontend and backend
