@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+scalable+apps+with+MERN;Solving+real-world+problems+with+code;Learning+%26+adapting+every+day;Turning+ideas+into+impactful+software" alt="Typing SVG" />
 </p>
 
-## 🧑‍💻 About Me  :
+## 🧑‍💻 About Me :
 
 💡 Passionate about **Exploring Something New**, writing clean code.  
 🎓 Aiml Undergrad @St.Mary's group of institutions (2022–2026).  
@@ -41,7 +41,7 @@
 ✨ **[Food delivery website](#)** – Food delivery any place any where food delivery esay to order .
 
 --
-## ✨ ACHIEVEMENT  :
+## ✨ ACHIEVEMENT :
 
 🔭**Apna college**
 • Worked independently to design, implement, test, and release scalable features using modern frontend and backend
