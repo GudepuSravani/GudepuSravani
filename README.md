@@ -9,13 +9,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+scalable+apps+with+MERN;Solving+real-world+problems+with+code;Learning+%26+adapting+every+day;Turning+ideas+into+impactful+software" alt="Typing SVG" />
 </p>
 
-## 🧑‍💻 About Me  :
+## 🧑‍💻 About Me :
 
 💡 Passionate about **Exploring Something New**, writing clean code.  
 🎓 Aiml Undergrad @St.Mary's group of institutions (2022–2026).  
 🔭 Currently working on ** Python + Artificial Intelligence and Machine learning**.  
 ---
-## 🛠️ Tech Stack  :
+## 🛠️ Tech Stack :
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -41,7 +41,7 @@
 ✨ **[Food delivery website](#)** – Food delivery any place any where food delivery esay to order .
 
 --
-## ✨ ACHIEVEMENT  :
+## ✨ ACHIEVEMENT :
 
 🔭**Apna college**
 • Worked independently to design, implement, test, and release scalable features using modern frontend and backend
@@ -64,7 +64,7 @@ This quiz was a great opportunity to enhance my knowledge in the areas of financ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GudepuSravani&theme=blueberry_duo" alt="GitHub streak" height="161"/>
 </p>
 
-## 🤝 Connect with Me   :
+## 🤝 Connect with Me :
 
 <p align="center">
   <a href="sravanigudepu2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
