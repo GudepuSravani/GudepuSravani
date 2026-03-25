@@ -57,6 +57,15 @@ This quiz was a great opportunity to enhance my knowledge in the areas of financ
 • Completed AI Skills Passport, strengthening my foundation in Artificial Intelligence fundamentals and employability skills.
 • Gained practical insights into AI applications in technology, business,and sustainability.
 • Excited to apply AI knowledge and job-ready skills in real-world opportunities.
+
+
+## 📈 GitHub Stats (Dark + Blue)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrKalyanKing&show_icons=true&theme=blue_navy" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrKalyanKing&theme=blueberry_duo" alt="GitHub streak" height="160"/>
+</p>
+
      
 ## 📈 GitHub Stats (Dark + Blue)
 
