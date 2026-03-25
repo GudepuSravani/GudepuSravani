@@ -66,13 +66,6 @@ This quiz was a great opportunity to enhance my knowledge in the areas of financ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GudepuSravani&theme=blueberry_duo" alt="GitHub streak" height="160"/>
 </p>
 
-     
-## 📈 GitHub Stats (Dark + Blue)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GudepuSravani&theme=blueberry_duo" alt="GitHub streak" height="161"/>
-</p>
-
 ## 🤝 Connect with Me :
 
 <p align="center">
