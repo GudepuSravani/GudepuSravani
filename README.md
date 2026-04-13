@@ -15,7 +15,7 @@
 🎓 Aiml Undergrad @St.Mary's group of institutions (2022–2026).  
 🔭 Currently working on ** Python + Artificial Intelligence and Machine learning**.  
 ---
-## 🛠️ Tech Stack :
+## 🛠️ Tech Stack  :
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -59,7 +59,7 @@ This quiz was a great opportunity to enhance my knowledge in the areas of financ
 • Excited to apply AI knowledge and job-ready skills in real-world opportunities.
 
 
-## 📈 GitHub Stats (Dark + Blue)  
+## 📈 GitHub Stats (Dark + Blue)  :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GudepuSravani&show_icons=true&theme=blue_navy" alt="GitHub stats" height="160"/>
